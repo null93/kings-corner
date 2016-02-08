@@ -1,6 +1,6 @@
 ***Kings Corner***
 
-This game is built on Java and uses ASCCI art instead of a GUI.
+This game is built on Java and uses ASCII art instead of a GUI.
 
 ***Compile and Run***
 
