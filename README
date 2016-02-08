@@ -1,0 +1,5 @@
+To Compile Type: 	'make main'
+To Run Type:		'make run' or 'java KingsCorner'
+
+I have implemented an extra command '^'.  Type this for the computer to finish the round for you! 
+This is for debugging and is hidden per say.
