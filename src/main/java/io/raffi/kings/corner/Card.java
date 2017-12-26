@@ -1,3 +1,5 @@
+package io.raffi.kings.corner;
+
 /**
  * Card.java - This class holds enum values that are associated with card suit, rank, and color.
  * This class also acts like the node part of a linked list.  It has a next and previous card

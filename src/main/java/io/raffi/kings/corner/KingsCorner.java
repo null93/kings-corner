@@ -1,3 +1,5 @@
+package io.raffi.kings.corner;
+
 import java.io.*;
 import java.util.*;
 

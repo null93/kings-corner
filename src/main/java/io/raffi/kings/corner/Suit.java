@@ -1,3 +1,5 @@
+package io.raffi.kings.corner;
+
 /**
  * Suit.java - This file contains an enum declaration that defines a statically interactive way to
  * address the suit of a card, whether it be hearts, diamonds, clubs, or spades.  This enum
@@ -25,19 +27,19 @@ public enum Suit {
 	protected static String which ( Suit suit ) {
 		// Determine if the enum is spades
 		if ( suit == Suit.SPADES ) {
-			return "♠";
+			return "\u2660";
 		}
 		// Determine if the enum is hearts
 		else if ( suit == Suit.HEARTS ) {
-			return "♥";
+			return "\u2665";
 		}
 		// Determine if the enum is diamonds
 		else if ( suit == Suit.DIAMONDS ) {
-			return "♦";
+			return "\u2666";
 		}
 		// otherwise it is clubs
 		else {
-			return "♣";
+			return "\u2663";
 		}
 	}
 

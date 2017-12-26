@@ -1,3 +1,5 @@
+package io.raffi.kings.corner;
+
 /**
  * Computer.java - This class extends from the Player class and adds functionality to automate a
  * players turn.  Other functions in this class are modularized in order to help the automation

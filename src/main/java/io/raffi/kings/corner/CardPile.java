@@ -1,3 +1,5 @@
+package io.raffi.kings.corner;
+
 /**
  * CardPile.java - This class acts like a card pile but also like a players hand.  There are
  * numerous functions that interact with the card pile class and are able to manipulate the linked

@@ -1,3 +1,5 @@
+package io.raffi.kings.corner;
+
 /**
  * Color.java - This file contains an enum declaration that defines a statically interactive way to
  * address the color of a card, whether it be black or red.  This enum declaration is used

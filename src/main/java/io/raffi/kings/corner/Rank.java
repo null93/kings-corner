@@ -1,3 +1,5 @@
+package io.raffi.kings.corner;
+
 /**
  * Rank.java - This file contains an enum declaration that defines a statically interactive way to
  * address the rank of a card, from ace to king.  This enum declaration is used throughout the
