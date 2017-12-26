@@ -10,10 +10,11 @@ import java.util.*;
  * @version     1.0.0
  * @university  University of Illinois at Chicago
  * @course      CS342 - Software Design
- * @package     Project #01 - Kings Corner
+ * @project     Project #01 - Kings Corner
+ * @package     io.raffi.kings.corner
  * @category    Board
  * @author      Rafael Grigorian
- * @license     GNU Public License <http://www.gnu.org/licenses/gpl-3.0.txt>
+ * @license     The MIT License
  */
 class Board {
 
@@ -353,7 +354,7 @@ class Board {
 			CardPile.REDTEXT + "\tCourse:" + CardPile.RESET + "\t\tCS342 - Software Design\n" +
 			CardPile.REDTEXT + "\tPackage:" + CardPile.RESET + "\tProject #01 - Kings Corner\n" +
 			CardPile.REDTEXT + "\tAuthor:" + CardPile.RESET + "\t\tRafael Grigorian\n" +
-			CardPile.REDTEXT + "\tLicense:" + CardPile.RESET + "\tGNU Public License"
+			CardPile.REDTEXT + "\tLicense:" + CardPile.RESET + "\tThe MIT License"
 		);
 	}
 
