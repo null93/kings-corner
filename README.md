@@ -6,9 +6,7 @@
 ![Stability Stable](https://img.shields.io/badge/Stability-Stable-lightgrey.svg?style=for-the-badge)
 
 <p align="center" >
-	<img src="docs/images/animation_1.gif" width="33%" />
-	<img src="docs/images/animation_2.gif" width="33%" />
-	<img src="docs/images/animation_3.gif" width="33%" />
+	<img src="docs/images/screenshot.webm" width="33%" />
 </p>
 
 ## About
